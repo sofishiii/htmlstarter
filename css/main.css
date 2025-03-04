@@ -43,6 +43,9 @@ a {
 
     }
 }
+img {
+max-width: 100%;
+}
 
 /* Escritorio */
 @media (min-width: 1024px) {
